@@ -1,0 +1,13 @@
+{
+  "position_name": "bottom_right",
+  "grasps": [
+    {
+      "offset": [
+        0.06,
+        0.04,
+        0.035
+      ],
+      "rz": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "position_name": "middle_shelf",
+  "grasps": [
+    {
+      "offset": [
+        0.1,
+        0,
+        0.01
+      ],
+      "rz": 0
+    },
+    {
+      "offset": [
+        0.08,
+        0.025,
+        0.03
+      ],
+      "rz": 0
+    }
+  ]
+}
